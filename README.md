@@ -5,4 +5,5 @@
 The original Play Tennis have only 2 **Variables** Outlook, and Temperature, but in this simple implementation, we added whether the WIND is present in the place, and the HUMIDITY of the place.
 
 Below is the sample data PlayTennis.csv
+
 ![image](https://user-images.githubusercontent.com/74399142/186916185-a6fc043b-295d-40ea-840e-8bc83e8e1f3d.png)
